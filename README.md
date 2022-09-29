@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Husain_khan
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning  machine learning 
-- 💞️ I’m looking to collaborate on machine learning projects 
+- 🌱 I’m currently Persuing  Deep learning 
+- 💞️ I’m looking to collaborate on machine learning & Deep Learning projects 
 - 📫 How to reach me @Husainkhan24
 
 <!---
